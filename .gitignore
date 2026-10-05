@@ -1,0 +1,14 @@
+# build output
+/ndmcli
+/bin/
+*.exe
+*.test
+*.out
+
+# macOS
+.DS_Store
+
+# editors
+.idea/
+.vscode/
+*.swp
